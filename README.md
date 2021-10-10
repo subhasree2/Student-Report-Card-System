@@ -1,6 +1,7 @@
 # Student-Report-Card-System  
 > *A report card is used to assess student performance in education, sport, discipline, etc.  
-> *It is utilized in schools and education institutes almost everywhere. 
+> *It is utilized in schools and education institutes almost everywhere.  
+> 
 > *This report card has been around for decades and will be around for years. 
 > *But the burden of organizing the report card by teaching professionals subsists.
 > *It is not possible for the teachers to create the report in less time and manage it all the time.
