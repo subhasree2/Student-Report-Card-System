@@ -9,5 +9,6 @@
 5.We simply used programming C to carry out that project.  
 6.It can be used to create a student report card, search a particular record by the student roll number or class, sort the students based on their exam performance and grade, display all the records at a time, etc.  
 7.This proposed system will store all student records along with their grades and report cards, enabling teachers and administrators to retrieve these records as required.  
-8.We believe this will be a great replacement for the current system.
+8.We believe this will be a great replacement for the current system. 
+***
 ![image](https://user-images.githubusercontent.com/75073682/136704439-fa544961-d90c-4026-b763-9e7df450cec0.png)
