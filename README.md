@@ -3,11 +3,6 @@
 2.It is utilized in schools and education institutes almost everywhere.  
 3.This report card has been around for decades and will be around for years.  
 4.But the burden of organizing the report card by teaching professionals subsists.   
-* Module-1 - Quiz 
-* Module-2 - Coding
-* Module-3 - Coding
-* Module-4 - Coding
-* Module-5 - Coding
 * It is not possible for the teachers to create the report in less time and manage it all the time.  
 * As a result, we intend to create a student scorecard system so that it stores all student records, and we can access them anywhere and anytime.  
 * This system was designed to eliminate repetitive tasks and thus save time.  
